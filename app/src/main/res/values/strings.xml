@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Berati Tour</string>
+    <string name="facebook_app_id">1873177752916653</string>
+    <string name="fb_login_protocol_scheme">fb1873177752916653</string>
+    <string name="ose_nepermjet">ose nepermjet</string>
+    <string name="identifikohu">Identifikohu</string>
+
+</resources>

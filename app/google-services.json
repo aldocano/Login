@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "823419108903",
+    "project_id": "berati-tour"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823419108903:android:56f9cd3b3549772a",
+        "android_client_info": {
+          "package_name": "com.divitech.beratitour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823419108903-163gf5lhd735rsaig5fnm235mh308c3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.divitech.beratitour",
+            "certificate_hash": "5CE4956109934177F5BD119F86DC70343615CF94"
+          }
+        },
+        {
+          "client_id": "823419108903-3v3549bdkdcdmgujv3m1994vcpo06vjk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNCV-ybTs8JowKf1Gks_55LOkewFPl5UE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
